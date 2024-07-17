@@ -1,1 +1,0 @@
-gitu caranya commit
